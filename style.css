@@ -146,3 +146,24 @@ body {
     color: #18191F;
     font-weight: 400;
 }
+
+footer {
+    text-align: center;
+    background: #000000;
+    padding: 20px 0 60px;
+}
+
+footer h1 span {
+    color: crimson;
+}
+
+footer h1 {
+    text-transform: uppercase;
+    font-size: 30px;
+    color: #c7bbbb;
+}
+
+footer p {
+    color: #ffffff;
+    font-weight: 400;
+}
