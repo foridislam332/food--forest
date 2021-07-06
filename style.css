@@ -211,6 +211,7 @@ body {
 .invite_text p {
     color: #18191F;
     margin-bottom: 40px;
+    padding-right: 30px;
 }
 
 .invite_text .btn {
