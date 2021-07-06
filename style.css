@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.banner_sec {
+    display: flex;
+    margin: 50px 0;
+}
+
+.banner_box {
+    display: flex;
+}
+
+.banner_box .banner_content {
+    width: 50%;
+    margin: auto 0;
+}
+
+.banner_box .banner_content h1 {
+    font-size: 55px;
+    color: #575757;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.banner_box .banner_content h1 span {
+    color: crimson;
+}
+
+.banner_box .banner_content p {
+    font-size: 20px;
+    color: #828282;
+    font-weight: 500;
+    margin-bottom: 70px;
+}
+
+.banner_box .banner_image {
+    width: 50%;
+    margin: auto -20px auto;
+}
+
+.banner_box .banner_image img {
+    width: 100%;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.btn {
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 600;
+    color: #ffffff;
+    background: linear-gradient(45deg, #f4bb2a, crimson);
+    padding: 20px 40px;
+    border-radius: 40px;
+}
+
+.about_sec {
+    background: url(img/7.png) no-repeat;
+    display: flex;
+    width: 100%;
+}
+
+.about_person {
+    width: 50%;
+    text-align: center;
+}
+
+.about_person img {
+    width: 45%;
+    padding-top: 60px;
+}
+
+.about_content {
+    width: 50%;
+    margin: auto 0;
+}
+
+.about_content h1 {
+    font-size: 50px;
+    color: #575757;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.about_content p {
+    font-size: 18px;
+    color: #828282;
+    font-weight: 500;
+    margin-bottom: 100px;
+    width: 80%;
+}
