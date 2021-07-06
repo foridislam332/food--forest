@@ -147,6 +147,40 @@ body {
     font-weight: 400;
 }
 
+.invite_box {
+    display: flex;
+    margin-bottom: -4px;
+}
+
+.res_image {
+    width: 50%;
+}
+
+.res_image img {
+    width: 100%;
+}
+
+.invite_text {
+    width: 50%;
+    padding-left: 50px;
+    margin: auto;
+}
+
+.invite_text h1 {
+    font-size: 50px;
+    color: #828282;
+    margin: 0;
+}
+
+.invite_text p {
+    color: #18191F;
+    margin-bottom: 40px;
+}
+
+.invite_text .btn {
+    padding: 15px 40px;
+}
+
 footer {
     text-align: center;
     background: #000000;
